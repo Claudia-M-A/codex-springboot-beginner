@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>codex-springboot-beginner</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>codex-springboot-beginner</name>
     <description>codex-springboot-beginner</description>
     <url/>
