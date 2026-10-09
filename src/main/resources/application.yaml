@@ -1,6 +1,6 @@
 spring:
   application:
-    name: codex-springboot-beginner
+    name: codex-springboot-beginner-1
 
 server:
   port: 5000
